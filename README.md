@@ -1,6 +1,6 @@
 # Real-Time Static Hand Gesture Recognition
 
-**Your Full Name:** `Rohhan Patil`
+**Your Full Name:** `Rohan Patil`
 
 ---
 
@@ -122,11 +122,6 @@ If you run the app, an annotated `.avi` file will also be saved automatically.
 - mediapipe not installing → check Python version (3.8–3.11 only).
 - Low FPS → reduce webcam resolution or set `model_complexity=0`.
 - Flickering gestures → increase smoothing window/debounce values.
-
----
-
-## License
-Add your license (e.g., MIT, Apache 2.0).
 
 ---
 
